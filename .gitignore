@@ -1,5 +1,5 @@
 MNIST_data/
-*.nyc
+*.pyc
 *.ipynb
 DCGAN-tensorflow/
 tf-adversarial/
